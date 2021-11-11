@@ -6,6 +6,8 @@
 \usepackage{fancyhdr}
 \usepackage{titlesec}
 \usepackage{fontspec} 
+\usepackage{etoolbox}
+\patchcmd{\thebibliography}{\section*{\refname}}{}{}{}
 
 % Document layout
 \geometry{tmargin=1cm, bmargin=1.5cm,lmargin=1.5cm, rmargin=1.5cm}
@@ -115,7 +117,10 @@ Pharmacy intern - KHCC \hfill Jan 2017 - Mar 2017 \\
 \item ACCP/ISoP Student abstract award \hfill ACCP annual meeting 2020
 \end{itemize}
 
-\textbf{Publications}
+\textbf{Publications}\\
+\nocite{*}
+\bibliographystyle{plain}
+\bibliography{research.bib}
 
 \textbf{Presentations}
 
