@@ -1,84 +1,945 @@
-\begin{thebibliography}{10}
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem{ababneh_seasonal_2020}
-Mera Ababneh, Mutaz Jaber, Abeer Rababa’h, and Faris Ababneh.
-\newblock Seasonal influenza vaccination among older adults in {Jordan}:
-  prevalence, knowledge, and attitudes.
-\newblock {\em Human Vaccines \& Immunotherapeutics}, 16(9):2252--2256,
-  September 2020.
 
-\bibitem{ababneh_prevalence_2020}
-Mera~A Ababneh, Mutaz Jaber, Abeer Rababa’h, and Eshraq Alabweny.
-\newblock Prevalence of antimicrobial use in a tertiary academic hospital: a
-  venue for antimicrobial stewardship programs.
-\newblock {\em Expert Review of Anti-infective Therapy}, pages 1--5, December
-  2020.
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{jaber_evaluation_nodate}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9cf027ffde95f97cd2eb2d48a85d6cf7}{%
+           family={\textbf{Jaber,\bibnamedelimb Mutaz\bibnamedelimb M.}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=840aaf9b4b858ea59e81e68667fb56cc}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Shen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ae3482275de13e6a6a3c302d3522fe17}{%
+           family={Brundage},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima C},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{aab4b361ebad70ebcefc4c92533aa9a6}
+      \strng{fullhash}{aab4b361ebad70ebcefc4c92533aa9a6}
+      \strng{bibnamehash}{aab4b361ebad70ebcefc4c92533aa9a6}
+      \strng{authorbibnamehash}{aab4b361ebad70ebcefc4c92533aa9a6}
+      \strng{authornamehash}{aab4b361ebad70ebcefc4c92533aa9a6}
+      \strng{authorfullhash}{aab4b361ebad70ebcefc4c92533aa9a6}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Evaluation of bias in weighted residual calculations when handling below the limit of quantification data using {Beal}’s {M3} method}
+      \true{nocite}
+      \field{pages}{4}
+      \range{pages}{1}
+      \verb{file}
+      \verb Evaluation of bias in weighted residual calculatio.pdf:C\:\\Users\\mutaz\\Zotero\\storage\\ED74JX92\\Evaluation of bias in weighted residual calculatio.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{jab2}{article}{}
+      \name{author}{6}{}{%
+        {{hash=840aaf9b4b858ea59e81e68667fb56cc}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Shen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9cf027ffde95f97cd2eb2d48a85d6cf7}{%
+           family={\textbf{Jaber,\bibnamedelimb Mutaz\bibnamedelimb M.}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=84499c781ba8e1a3997c0dc82d17673f}{%
+           family={Flora},
+           familyi={F\bibinitperiod},
+           given={Darcy\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=56bae86376b3a3c1d6c3061a5207b02e}{%
+           family={Tracy},
+           familyi={T\bibinitperiod},
+           given={Timothy\bibnamedelima S.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=f7cfcd22f2d86811e7b1c2343c06e26a}{%
+           family={Rettie},
+           familyi={R\bibinitperiod},
+           given={Allan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ae3482275de13e6a6a3c302d3522fe17}{%
+           family={Brundage},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{534495ced6a5d48d5d1152f986ce5904}
+      \strng{fullhash}{0dc4d219064300174600f595573899dd}
+      \strng{bibnamehash}{0dc4d219064300174600f595573899dd}
+      \strng{authorbibnamehash}{0dc4d219064300174600f595573899dd}
+      \strng{authornamehash}{534495ced6a5d48d5d1152f986ce5904}
+      \strng{authorfullhash}{0dc4d219064300174600f595573899dd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2021 Annual American College of Clinical Pharmacology meeting}
+      \field{title}{Model-based analysis of the CYP2C9 genotype impact on the fluconazole inhibition of the commonly prescribed drugs flurbiprofen, ketoprofen, and tolbutamide}
+      \field{year}{2021}
+      \true{nocite}
+      \keyw{poster}
+    \endentry
+    \entry{jaber_application_2021}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9cf027ffde95f97cd2eb2d48a85d6cf7}{%
+           family={\textbf{Jaber,\bibnamedelimb Mutaz\bibnamedelimb M}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=c4c8621921d9a6af8606e61652e860c5}{%
+           family={Yaman},
+           familyi={Y\bibinitperiod},
+           given={Burhaneddin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=2950e955ebf5e2068163bc84e23e6ceb}{%
+           family={Sarafoglou},
+           familyi={S\bibinitperiod},
+           given={Kyriakie},
+           giveni={K\bibinitperiod}}}%
+        {{hash=ae3482275de13e6a6a3c302d3522fe17}{%
+           family={Brundage},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima C},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6a1d8069f441b91ad946bbd5a786fb7d}
+      \strng{fullhash}{ce7f92d9e59504346632dea664b132b8}
+      \strng{bibnamehash}{ce7f92d9e59504346632dea664b132b8}
+      \strng{authorbibnamehash}{ce7f92d9e59504346632dea664b132b8}
+      \strng{authornamehash}{6a1d8069f441b91ad946bbd5a786fb7d}
+      \strng{authorfullhash}{ce7f92d9e59504346632dea664b132b8}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A speciﬁc model for drug absorption is necessarily assumed in pharmacokinetic (PK) analyses following extravascular dosing. Unfortunately, an inappropriate absorption model may force other model parameters to be poorly estimated. An added complexity arises in population PK analyses when different individuals appear to have different absorption patterns. The aim of this study is to demonstrate that a deep neural network (DNN) can be used to prescreen data and assign an individualized absorption model consistent with either a ﬁrst-order, Erlang, or split-peak process. Ten thousand proﬁles were simulated for each of the three aforementioned shapes and used for training the DNN algorithm with a 30\% hold-out validation set. During the training phase, a 99.7\% accuracy was attained, with 99.4\% accuracy during in the validation process. In testing the algorithm classiﬁcation performance with external patient data, a 93.7\% accuracy was reached. This algorithm was developed to prescreen individual data and assign a particular absorption model prior to a population PK analysis. We envision it being used as an efﬁcient prescreening tool in other situations that involve a model component that appears to be variable across subjects. It has the potential to reduce the time needed to perform a manual visual assignment and eliminate inter-assessor variability and bias in assigning a sub-model.}
+      \field{title}{Application of {Deep} {Neural} {Networks} as a {Prescreening} {Tool} to {Assign} {Individualized} {Absorption} {Models} in {Pharmacokinetic} {Analysis}}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{11}
+      \range{pages}{1}
+      \verb{file}
+      \verb Jaber et al. - 2021 - Application of Deep Neural Networks as a Prescreen.pdf:C\:\\Users\\mutaz\\Zotero\\storage\\RJMXGXX5\\Jaber et al. - 2021 - Application of Deep Neural Networks as a Prescreen.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{jab1}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9cf027ffde95f97cd2eb2d48a85d6cf7}{%
+           family={\textbf{Jaber,\bibnamedelimb Mutaz\bibnamedelimb M.}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ae3482275de13e6a6a3c302d3522fe17}{%
+           family={Brundage},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d07a4e22d7a79ab6ca5a125be3665c3}
+      \strng{fullhash}{7d07a4e22d7a79ab6ca5a125be3665c3}
+      \strng{bibnamehash}{7d07a4e22d7a79ab6ca5a125be3665c3}
+      \strng{authorbibnamehash}{7d07a4e22d7a79ab6ca5a125be3665c3}
+      \strng{authornamehash}{7d07a4e22d7a79ab6ca5a125be3665c3}
+      \strng{authorfullhash}{7d07a4e22d7a79ab6ca5a125be3665c3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Population Approach Group Europe}
+      \field{title}{Investigating Components of {Residual Unexplained Variability} in {Nonlinear Mixed-Effect Modeling}}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.13140/RG.2.2.26809.49765
+      \endverb
+      \keyw{poster}
+    \endentry
+    \entry{jab3}{article}{}
+      \name{author}{5}{}{%
+        {{hash=9cf027ffde95f97cd2eb2d48a85d6cf7}{%
+           family={\textbf{Jaber,\bibnamedelimb Mutaz\bibnamedelimb M.}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=04d1dcffc1dc5d02287042420c30631b}{%
+           family={Takahashi},
+           familyi={T\bibinitperiod},
+           given={Takuto},
+           giveni={T\bibinitperiod}}}%
+        {{hash=559f4355ab79a8bcaec6b09609fee88d}{%
+           family={Kirstein},
+           familyi={K\bibinitperiod},
+           given={Mark\bibnamedelima N.},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=a5c50e22f747a8f9eb93bceeca611e14}{%
+           family={Jacobson},
+           familyi={J\bibinitperiod},
+           given={Pamala},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ae3482275de13e6a6a3c302d3522fe17}{%
+           family={Brundage},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{6a1d8069f441b91ad946bbd5a786fb7d}
+      \strng{fullhash}{a4e77ef24faf4aa9025a0867e46dac7a}
+      \strng{bibnamehash}{a4e77ef24faf4aa9025a0867e46dac7a}
+      \strng{authorbibnamehash}{a4e77ef24faf4aa9025a0867e46dac7a}
+      \strng{authornamehash}{6a1d8069f441b91ad946bbd5a786fb7d}
+      \strng{authorfullhash}{a4e77ef24faf4aa9025a0867e46dac7a}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2021 Annual American College of Clinical Pharmacology meeting}
+      \field{title}{Population Pharmacokinetic Analysis of Phosphoramide Mustard Following Cyclophosphamide Administration in Hematopoietic Cell Transplant Conditioning Therapy}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.13140/RG.2.2.23454.05445
+      \endverb
+      \keyw{poster}
+    \endentry
+    \entry{alkofahi_integrated_2021}{article}{}
+      \name{author}{9}{}{%
+        {{hash=d494ae15ce0ff91331fbd7d0cfe80e75}{%
+           family={Al‐Kofahi},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={Mahmoud},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4acc1c6c9a662ffa3c92f81615db9245}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Mariam\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=9cf027ffde95f97cd2eb2d48a85d6cf7}{%
+           family={\textbf{Jaber,\bibnamedelimb Mutaz\bibnamedelimb M.}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ae18af05b9c2d62b555a525e6acba34d}{%
+           family={Tran},
+           familyi={T\bibinitperiod},
+           given={Thang\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=1ff69c22eec3439d473ca2e05dd1691f}{%
+           family={Willis},
+           familyi={W\bibinitperiod},
+           given={Brian\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f3cf6803bd679fc589460ab7bee95a88}{%
+           family={Zimmerman},
+           familyi={Z\bibinitperiod},
+           given={Cheryl\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=21444995831496fcc68d97fb67f131be}{%
+           family={Gonzalez‐Bolanos},
+           familyi={G\bibinithyphendelim B\bibinitperiod},
+           given={Maria\bibnamedelima T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=ae3482275de13e6a6a3c302d3522fe17}{%
+           family={Brundage},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=2950e955ebf5e2068163bc84e23e6ceb}{%
+           family={Sarafoglou},
+           familyi={S\bibinitperiod},
+           given={Kyriakie},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e6dc059b92b5d22431ccf3f315e963e6}
+      \strng{fullhash}{d36dba6dc9b438fe30190b51d677222a}
+      \strng{bibnamehash}{d36dba6dc9b438fe30190b51d677222a}
+      \strng{authorbibnamehash}{d36dba6dc9b438fe30190b51d677222a}
+      \strng{authornamehash}{e6dc059b92b5d22431ccf3f315e963e6}
+      \strng{authorfullhash}{d36dba6dc9b438fe30190b51d677222a}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Methods: A nonlinear mixed-effect modelling approach was used to analyse cortisol, 17-hydroxyprogesterone and androstenedione concentrations obtained over 6 hours from children with CAH (n = 50). A circadian rhythm was evident and the model leveraged literature information on circadian rhythm in untreated children with CAH. Indirect response models were applied in which cortisol inhibited the production rate of all three compounds using an Imax model. Results: Cortisol was characterized by a one-compartment model with apparent clearance and volume of distribution estimated at 22.9 L/h/70 kg and 41.1 L/70 kg, respectively. The IC50 values of cortisol concentrations for cortisol, 17-hydroxyprogesterone and androstenedione were estimated to be 1.36, 0.45 and 0.75 μg/dL, respectively. The inhibitory effect was found to be more potent on 17OHP than D4A, and the IC50 values were higher in salt-wasting subjects than simple virilizers. Production rates of cortisol, 17-hydroxyprogesterone and androstenedione were higher in simple-virilizer subjects. Half-lives of cortisol, 17-hydroxyprogesterone and androstenedione were 60, 47 and 77 minutes, respectively. Conclusion: Rapidly changing biomarker responses to cortisol concentrations highlight that single measurements provide volatile information about a child's disease control. Our model closely captured observed cortisol, 17-hydroxyprogesterone and androstenedione concentrations. It can be used to predict concentrations over 24 hours and allows many novel exposure metrics to be calculated, e.g., AUC, AUCabove-threshold, time-within-range, etc. Our long-range goal is to uncover dose–}
+      \field{issn}{0306-5251, 1365-2125}
+      \field{journaltitle}{Br J Clin Pharmacol}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{An integrated {PK}‐{PD} model for cortisol and the 17‐hydroxyprogesterone and androstenedione biomarkers in children with congenital adrenal hyperplasia}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{volume}{87}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{1098\bibrangedash 1110}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1111/bcp.14470
+      \endverb
+      \verb{file}
+      \verb Al‐Kofahi et al. - 2021 - An integrated PK‐PD model for cortisol and the 17‐.pdf:C\:\\Users\\mutaz\\Zotero\\storage\\N3XN4WXH\\Al‐Kofahi et al. - 2021 - An integrated PK‐PD model for cortisol and the 17‐.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/bcp.14470
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/bcp.14470
+      \endverb
+    \endentry
+    \entry{heba_2021}{article}{}
+      \name{author}{9}{}{%
+        {{hash=e29dad6c5edf46c29cfe1d40ef2ae933}{%
+           family={Al-Rayess},
+           familyi={A\bibinithyphendelim R\bibinitperiod},
+           given={Heba},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9662a528e9527e0b25d2ce96ac6ea5e9}{%
+           family={Addo},
+           familyi={A\bibinitperiod},
+           given={O\bibnamedelima Yaw},
+           giveni={O\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=604a221a1ee11ffbc2ac269050d3c0ea}{%
+           family={Palzer},
+           familyi={P\bibinitperiod},
+           given={Elise},
+           giveni={E\bibinitperiod}}}%
+        {{hash=352709fed8c42a7174ab03681477fefe}{%
+           family={\textbf{Mutaz\bibnamedelimb Jaber}},
+           familyi={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ce54086c3e873757473826b10e71d995}{%
+           family={Fleissner},
+           familyi={F\bibinitperiod},
+           given={Kristin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=de89c6a3c5bf28a04fe61da21bee3d48}{%
+           family={Hodges},
+           familyi={H\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=43d7769283f2b53853bb06c85aa09537}{%
+           family={Brundage},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=6db0c26b2df21342da759c760b2c947b}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Bradley\bibnamedelima Scott},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=2950e955ebf5e2068163bc84e23e6ceb}{%
+           family={Sarafoglou},
+           familyi={S\bibinitperiod},
+           given={Kyriakie},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{af7ee9247fdb32a3a86c8b4be2c2bc12}
+      \strng{fullhash}{8b22d9d02bf677d5a703e62936dae28b}
+      \strng{bibnamehash}{8b22d9d02bf677d5a703e62936dae28b}
+      \strng{authorbibnamehash}{8b22d9d02bf677d5a703e62936dae28b}
+      \strng{authornamehash}{af7ee9247fdb32a3a86c8b4be2c2bc12}
+      \strng{authorfullhash}{8b22d9d02bf677d5a703e62936dae28b}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Endocrine Society}
+      \field{title}{Hydrocortisone Suspension Provides Similar Growth Outcomes as Hydrocortisone Tablets in Young Children With Congenital Adrenal Hyperplasia: A Cross Sectional Study}
+      \field{volume}{5}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{takahashi_cyp2c19_2021}{article}{}
+      \name{author}{8}{}{%
+        {{hash=04d1dcffc1dc5d02287042420c30631b}{%
+           family={Takahashi},
+           familyi={T\bibinitperiod},
+           given={Takuto},
+           giveni={T\bibinitperiod}}}%
+        {{hash=7c4bc543b56a5335a51b6e6bb2247088}{%
+           family={Mohamud},
+           familyi={M\bibinitperiod},
+           given={Maryam\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=887eba4813c525427d968004060f37c1}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Angela\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=f9857e27b96560103a56095138d7edab}{%
+           family={Jacobson},
+           familyi={J\bibinitperiod},
+           given={Pamala\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=9cf027ffde95f97cd2eb2d48a85d6cf7}{%
+           family={\textbf{Jaber,\bibnamedelimb Mutaz\bibnamedelimb M.}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e6c1917845451940e7e25776ca69517a}{%
+           family={Alharbi},
+           familyi={A\bibinitperiod},
+           given={Abeer\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=da4b13ef11988b637fad711cd5c96bee}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=559f4355ab79a8bcaec6b09609fee88d}{%
+           family={Kirstein},
+           familyi={K\bibinitperiod},
+           given={Mark\bibnamedelima N.},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a4a77a04d3a66fe907c7679c682d3272}
+      \strng{fullhash}{969504a17e24ab3bad0347b1d1a6fc9e}
+      \strng{bibnamehash}{969504a17e24ab3bad0347b1d1a6fc9e}
+      \strng{authorbibnamehash}{969504a17e24ab3bad0347b1d1a6fc9e}
+      \strng{authornamehash}{a4a77a04d3a66fe907c7679c682d3272}
+      \strng{authorfullhash}{969504a17e24ab3bad0347b1d1a6fc9e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Prophylactic voriconazole use is recommended for children undergoing hematopoietic cell transplantation (HCT). Dosing considerations are essential, due to the narrow therapeutic window of voriconazole. Known covariates do not sufﬁciently explain the large interindividual pharmacokinetic (PK) variability of voriconazole. Moreover, knowledge of voriconazole PK for age ,2 years is limited. We investigated genetic and clinical covariate associations with voriconazole interindividual PK variability and subsequently simulated dosing regimens in children. This study was conducted as part of a single-institution, phase I study of intravenous voriconazole therapy for children undergoing HCT. We conducted a population PK analysis and tested covariate effects on voriconazole PK, including 67 genetic variants and clinical variables. We analyzed plasma voriconazole and N-oxide metabolite concentrations from 58 children ,21 years of age (including 12 children ,2 years of age). A two-compartment parent mixed linear/nonlinear model best described our data. The CYP2C19 phenotype and body weight were signiﬁcant covariates (P , 0.05 for both). Our model performance for age ,2 years was comparable to that for other age groups. Simulation of the ﬁnal model suggested the following doses to attain target steady-state trough concentrations of 1.5 to 5.0 mg/liter for the CYP2C19 normal phenotype: 16 mg/kg (weight of ,15 kg), 12 mg/kg (weight of 15 to 30 kg), or 10 mg/kg (weight of .30 kg); doses were 33 to 50\% lower for CYP2C19 poor/intermediate phenotypes and 25 to 50\% higher for CYP2C19 rapid/ultrarapid phenotypes. We propose a new starting-dose regimen, combined with therapeutic drug monitoring, for intravenous voriconazole therapy in children of all ages. Future studies should validate this dosing regimen.}
+      \field{issn}{0066-4804, 1098-6596}
+      \field{journaltitle}{Antimicrob Agents Chemother}
+      \field{month}{8}
+      \field{number}{9}
+      \field{title}{{CYP2C19} {Phenotype} and {Body} {Weight}-{Guided} {Voriconazole} {Initial} {Dose} in {Infants} and {Children} after {Hematopoietic} {Cell} {Transplantation}}
+      \field{urlday}{11}
+      \field{urlmonth}{11}
+      \field{urlyear}{2021}
+      \field{volume}{65}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1128/AAC.00623-21
+      \endverb
+      \verb{file}
+      \verb Takahashi et al. - 2021 - CYP2C19 Phenotype and Body Weight-Guided Voriconaz.pdf:C\:\\Users\\mutaz\\Zotero\\storage\\J6XZNUW8\\Takahashi et al. - 2021 - CYP2C19 Phenotype and Body Weight-Guided Voriconaz.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.asm.org/doi/10.1128/AAC.00623-21
+      \endverb
+      \verb{url}
+      \verb https://journals.asm.org/doi/10.1128/AAC.00623-21
+      \endverb
+    \endentry
+    \entry{ababneh_seasonal_2020}{article}{}
+      \name{author}{4}{}{%
+        {{hash=7881bf43a7de398bdc04203ba65799fc}{%
+           family={Ababneh},
+           familyi={A\bibinitperiod},
+           given={Mera},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f7ee9987c8d8bf808d7bccd3d07bd2bc}{%
+           family={\textbf{Jaber,\bibnamedelimb Mutaz}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=5805181f2c4c859a9306af868a439f11}{%
+           family={Rababa’h},
+           familyi={R\bibinitperiod},
+           given={Abeer},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e06f169f29ef4fadf26b21d40fccb1f7}{%
+           family={Ababneh},
+           familyi={A\bibinitperiod},
+           given={Faris},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{b9ef096519b0d446d52a046966a89faf}
+      \strng{fullhash}{16fb4a5c445a73403c793162892ff442}
+      \strng{bibnamehash}{16fb4a5c445a73403c793162892ff442}
+      \strng{authorbibnamehash}{16fb4a5c445a73403c793162892ff442}
+      \strng{authornamehash}{b9ef096519b0d446d52a046966a89faf}
+      \strng{authorfullhash}{16fb4a5c445a73403c793162892ff442}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Objectives: The current study aimed to evaluate the prevalence, level of knowledge and attitudes to seasonal influenza vaccination among older adults in Jordan. Methods: This was a cross-sectional study in which a close-ended questionnaire was administered to older adults (65 years or older) in two major cities in Jordan between May 2018 and July 2018. A p-value of less than 0.05 was considered the cutoff level for statistical significance. Results: Among 500 participants, only 1.2\% (n = 6) received a seasonal influenza vaccine during the previous year. In assessing influenza disease and influenza vaccine knowledge, 47.8\% had good knowledge. Around 61\% of older adults reported influenza vaccine is effective against preventing influenza however, 49.8\% reported that influenza could be treated with the influenza vaccine. Moreover, 27\% thought the influenza vaccine is important for older adults. In terms of attitudes toward the vaccine, 24.6\% had positive attitudes and 40.6\% strongly agreed/agreed that influenza is a serious disease in older adults and they should take the influenza vaccine to prevent influenza. Conclusion: The results of this study showed an extremely poor influenza vaccination rate among older adults and a low level of influenza vaccination knowledge and attitudes.}
+      \field{issn}{2164-5515, 2164-554X}
+      \field{journaltitle}{Human Vaccines \& Immunotherapeutics}
+      \field{month}{9}
+      \field{number}{9}
+      \field{shorttitle}{Seasonal influenza vaccination among older adults in {Jordan}}
+      \field{title}{Seasonal influenza vaccination among older adults in {Jordan}: prevalence, knowledge, and attitudes}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{volume}{16}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{2252\bibrangedash 2256}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1080/21645515.2020.1718438
+      \endverb
+      \verb{file}
+      \verb Ababneh et al. - 2020 - Seasonal influenza vaccination among older adults .pdf:C\:\\Users\\mutaz\\Zotero\\storage\\54AVGW25\\Ababneh et al. - 2020 - Seasonal influenza vaccination among older adults .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/21645515.2020.1718438
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/21645515.2020.1718438
+      \endverb
+    \endentry
+    \entry{ababneh_prevalence_2020}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5e9ecdf3eb08ff0de9d33b61877e1f69}{%
+           family={Ababneh},
+           familyi={A\bibinitperiod},
+           given={Mera\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f7ee9987c8d8bf808d7bccd3d07bd2bc}{%
+           family={\textbf{Jaber,\bibnamedelimb Mutaz}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=5805181f2c4c859a9306af868a439f11}{%
+           family={Rababa’h},
+           familyi={R\bibinitperiod},
+           given={Abeer},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0d34b4e2fef4fbc45a2dff28013340eb}{%
+           family={Alabweny},
+           familyi={A\bibinitperiod},
+           given={Eshraq},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a59411f9b6c2a7ee886e102263cced4b}
+      \strng{fullhash}{f1c84064f4ea673793bdf0486fb866dc}
+      \strng{bibnamehash}{f1c84064f4ea673793bdf0486fb866dc}
+      \strng{authorbibnamehash}{f1c84064f4ea673793bdf0486fb866dc}
+      \strng{authornamehash}{a59411f9b6c2a7ee886e102263cced4b}
+      \strng{authorfullhash}{f1c84064f4ea673793bdf0486fb866dc}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Objective: To quantify antimicrobial use in inpatients setting as part of antimicrobial stewardship program surveillance. Method: Antimicrobial use was obtained using a pre-designed data collection form in this point prevalence study. Setting: The study was conducted in a tertiary academic hospital in the North of Jordan on 13 August 2018. Main outcome measures: antimicrobial use was determined using two methods: defined daily use (DDD) and days of therapy (DOT). Results: This study identified antimicrobial use in 144 patients. Carbapenems, glycopeptides, and piperacillin-tazobactam were the most utilized antimicrobials in the inpatients’ setting in both measures DDD and DOT. The highest prescription rate of antibiotics was in the internal medicine wards (49.8 DDD/100 admissions), followed by surgery wards (33.2 DDD/100 admissions) and intensive care unit (20.6 DDD/100 admissions). Conclusion: This surveillance study addressed patterns of antimicrobial usage in inpatients settings in a tertiary care hospital in Jordan. This practice is feasible and could be adopted routinely by anti­ microbial stewardship programs.}
+      \field{issn}{1478-7210, 1744-8336}
+      \field{journaltitle}{Expert Review of Anti-infective Therapy}
+      \field{month}{12}
+      \field{shorttitle}{Prevalence of antimicrobial use in a tertiary academic hospital}
+      \field{title}{Prevalence of antimicrobial use in a tertiary academic hospital: a venue for antimicrobial stewardship programs}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1080/14787210.2021.1863789
+      \endverb
+      \verb{file}
+      \verb Ababneh et al. - 2020 - Prevalence of antimicrobial use in a tertiary acad.pdf:C\:\\Users\\mutaz\\Zotero\\storage\\4RIKI6YK\\Ababneh et al. - 2020 - Prevalence of antimicrobial use in a tertiary acad.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/14787210.2021.1863789
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/14787210.2021.1863789
+      \endverb
+    \endentry
+    \entry{jaber_individualized_2020}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9cf027ffde95f97cd2eb2d48a85d6cf7}{%
+           family={\textbf{Jaber,\bibnamedelimb Mutaz\bibnamedelimb M.}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=d494ae15ce0ff91331fbd7d0cfe80e75}{%
+           family={Al‐Kofahi},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={Mahmoud},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2950e955ebf5e2068163bc84e23e6ceb}{%
+           family={Sarafoglou},
+           familyi={S\bibinitperiod},
+           given={Kyriakie},
+           giveni={K\bibinitperiod}}}%
+        {{hash=ae3482275de13e6a6a3c302d3522fe17}{%
+           family={Brundage},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6a1d8069f441b91ad946bbd5a786fb7d}
+      \strng{fullhash}{4bb8da3fd073fab26dcf7e6d335490c1}
+      \strng{bibnamehash}{4bb8da3fd073fab26dcf7e6d335490c1}
+      \strng{authorbibnamehash}{4bb8da3fd073fab26dcf7e6d335490c1}
+      \strng{authornamehash}{6a1d8069f441b91ad946bbd5a786fb7d}
+      \strng{authorfullhash}{4bb8da3fd073fab26dcf7e6d335490c1}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2163-8306, 2163-8306}
+      \field{journaltitle}{CPT Pharmacometrics Syst. Pharmacol.}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{Individualized {Absorption} {Models} in {Population} {Pharmacokinetic} {Analyses}}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{volume}{9}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{307\bibrangedash 309}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1002/psp4.12513
+      \endverb
+      \verb{file}
+      \verb Jaber et al. - 2020 - Individualized Absorption Models in Population Pha.pdf:C\:\\Users\\mutaz\\Zotero\\storage\\U2PID3B9\\Jaber et al. - 2020 - Individualized Absorption Models in Population Pha.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/psp4.12513
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/psp4.12513
+      \endverb
+    \endentry
+    \entry{jab5}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9cf027ffde95f97cd2eb2d48a85d6cf7}{%
+           family={\textbf{Jaber,\bibnamedelimb Mutaz\bibnamedelimb M.}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=2950e955ebf5e2068163bc84e23e6ceb}{%
+           family={Sarafoglou},
+           familyi={S\bibinitperiod},
+           given={Kyriakie},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f54ddcce440cca2998403de37098d235}{%
+           family={Al-Kofahi},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={Mahmoud},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ae3482275de13e6a6a3c302d3522fe17}{%
+           family={Brundage},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{6a1d8069f441b91ad946bbd5a786fb7d}
+      \strng{fullhash}{430166212083dc6d7f32a24b8a17c9f7}
+      \strng{bibnamehash}{430166212083dc6d7f32a24b8a17c9f7}
+      \strng{authorbibnamehash}{430166212083dc6d7f32a24b8a17c9f7}
+      \strng{authornamehash}{6a1d8069f441b91ad946bbd5a786fb7d}
+      \strng{authorfullhash}{430166212083dc6d7f32a24b8a17c9f7}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{11th American conference on Pharmacometrics}
+      \field{title}{Application of a Deep Learning Algorithm as a Prescreening Tool to Assign Individualized Absorption Models in a Population Pharmacokinetic Analysis}
+      \field{year}{2020}
+      \true{nocite}
+      \keyw{poster}
+    \endentry
+    \entry{jab4}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9cf027ffde95f97cd2eb2d48a85d6cf7}{%
+           family={\textbf{Jaber,\bibnamedelimb Mutaz\bibnamedelimb M.}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=2950e955ebf5e2068163bc84e23e6ceb}{%
+           family={Sarafoglou},
+           familyi={S\bibinitperiod},
+           given={Kyriakie},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f54ddcce440cca2998403de37098d235}{%
+           family={Al-Kofahi},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={Mahmoud},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ae3482275de13e6a6a3c302d3522fe17}{%
+           family={Brundage},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{6a1d8069f441b91ad946bbd5a786fb7d}
+      \strng{fullhash}{430166212083dc6d7f32a24b8a17c9f7}
+      \strng{bibnamehash}{430166212083dc6d7f32a24b8a17c9f7}
+      \strng{authorbibnamehash}{430166212083dc6d7f32a24b8a17c9f7}
+      \strng{authornamehash}{6a1d8069f441b91ad946bbd5a786fb7d}
+      \strng{authorfullhash}{430166212083dc6d7f32a24b8a17c9f7}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2020 Annual American College of Clinical Pharmacology meeting}
+      \field{title}{HydroC-Precision: An Integrated Hydrocortisone Dosing and Biomarker Platform for Treating Children with Congenital Adrenal Hyperplasia}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1002/cpdd.858
+      \endverb
+      \keyw{poster}
+    \endentry
+    \entry{alkofahi_finding_2020}{article}{}
+      \name{author}{9}{}{%
+        {{hash=d494ae15ce0ff91331fbd7d0cfe80e75}{%
+           family={Al‐Kofahi},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={Mahmoud},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a5c50e22f747a8f9eb93bceeca611e14}{%
+           family={Jacobson},
+           familyi={J\bibinitperiod},
+           given={Pamala},
+           giveni={P\bibinitperiod}}}%
+        {{hash=54a09dde88da1b5d76e3f2e673276cc4}{%
+           family={Boulware},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=9474f48ff3d8dd669219d38d2e8fef93}{%
+           family={Matas},
+           familyi={M\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1323c70bb7d9bd43e1840bad5245306b}{%
+           family={Kandaswamy},
+           familyi={K\bibinitperiod},
+           given={Raja},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9cf027ffde95f97cd2eb2d48a85d6cf7}{%
+           family={\textbf{Jaber,\bibnamedelimb Mutaz\bibnamedelimb M.}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=02d54f1cd93af9e7b2ce18aa8ca9b98c}{%
+           family={Rajasingham},
+           familyi={R\bibinitperiod},
+           given={Radha},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3a6fadf73a99027485d480165380b631}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Jo‐Anne\bibnamedelima H.},
+           giveni={J\bibinithyphendelim A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=9c075a15702b6810c061a0d9c646734b}{%
+           family={Nicol},
+           familyi={N\bibinitperiod},
+           given={Melanie\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e6dc059b92b5d22431ccf3f315e963e6}
+      \strng{fullhash}{19fe3e52ae618782c349c25ed474247e}
+      \strng{bibnamehash}{19fe3e52ae618782c349c25ed474247e}
+      \strng{authorbibnamehash}{19fe3e52ae618782c349c25ed474247e}
+      \strng{authornamehash}{e6dc059b92b5d22431ccf3f315e963e6}
+      \strng{authorfullhash}{19fe3e52ae618782c349c25ed474247e}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0009-9236, 1532-6535}
+      \field{journaltitle}{Clin. Pharmacol. Ther.}
+      \field{month}{10}
+      \field{number}{4}
+      \field{shorttitle}{Finding the {Dose} for {Hydroxychloroquine} {Prophylaxis} for {COVID}‐19}
+      \field{title}{Finding the {Dose} for {Hydroxychloroquine} {Prophylaxis} for {COVID}‐19: {The} {Desperate} {Search} for {Effectiveness}}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{volume}{108}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{766\bibrangedash 769}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1002/cpt.1874
+      \endverb
+      \verb{file}
+      \verb Al‐Kofahi et al. - 2020 - Finding the Dose for Hydroxychloroquine Prophylaxi.pdf:C\:\\Users\\mutaz\\Zotero\\storage\\QADS8V8M\\Al‐Kofahi et al. - 2020 - Finding the Dose for Hydroxychloroquine Prophylaxi.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/cpt.1874
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/cpt.1874
+      \endverb
+    \endentry
+    \entry{al-rayess_manipulation_2020}{article}{}
+      \name{author}{5}{}{%
+        {{hash=e29dad6c5edf46c29cfe1d40ef2ae933}{%
+           family={Al-Rayess},
+           familyi={A\bibinithyphendelim R\bibinitperiod},
+           given={Heba},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ce54086c3e873757473826b10e71d995}{%
+           family={Fleissner},
+           familyi={F\bibinitperiod},
+           given={Kristin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f7ee9987c8d8bf808d7bccd3d07bd2bc}{%
+           family={\textbf{Jaber,\bibnamedelimb Mutaz}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ae3482275de13e6a6a3c302d3522fe17}{%
+           family={Brundage},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima C},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=2950e955ebf5e2068163bc84e23e6ceb}{%
+           family={Sarafoglou},
+           familyi={S\bibinitperiod},
+           given={Kyriakie},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{af7ee9247fdb32a3a86c8b4be2c2bc12}
+      \strng{fullhash}{8c3c5fe2230ace1197391089d0aba611}
+      \strng{bibnamehash}{8c3c5fe2230ace1197391089d0aba611}
+      \strng{authorbibnamehash}{8c3c5fe2230ace1197391089d0aba611}
+      \strng{authornamehash}{af7ee9247fdb32a3a86c8b4be2c2bc12}
+      \strng{authorfullhash}{8c3c5fe2230ace1197391089d0aba611}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Currently there are no commercially available hydrocortisone formulations for the treatment of children with congenital adrenal hyperplasia (CAH) that allow for smaller doses (0.1-1.25 mg) and incremental adjustments needed to control excess androgen production and avoid the negative effects of overtreatment. This lack of availability has led physicians to recommend dividing hydrocortisone 5-mg tablets into 4 to 6 pieces, compounding capsules or hydrocortisone suspension, or crushing 5- or 10-mg tablets in 5 or 10 mL of water. We report a case of iatrogenic Cushing syndrome in a 6-year 11-month-old girl with salt-wasting CAH treated with hydrocortisone tablets that were administered after crushing and dispersing into water to obtain the prescribed dose. She presented with poor growth, increasing body mass index (BMI), excess downy hair, round facies, and gastric ulcers. Her hydrocortisone dose was 8.1 mg/m2/day. Results for all adrenal steroid concentrations were undetectable at 8 am, 12 hours after her last dose. The year prior to presentation her parents began dissolving 10 mg of hydrocortisone in 10 mL of water and using this preparation over the course of 24 hours, which coincided with rapid increase of BMI. We switched her to a pharmacy-compounded alcohol-free hydrocortisone suspension with total daily doses ranging from 6.5 to 8.2 mg/m2/day, which resulted in resolution of her cushingoid features, a decrease in BMI, and catch-up growth. Our case highlights that manipulation of hydrocortisone tablets by parents can result in great variability in dosing and the need for commercially available pediatric formulations allowing for smaller dosing required in young children.}
+      \field{issn}{2472-1972}
+      \field{journaltitle}{Journal of the Endocrine Society}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Manipulation of {Hydrocortisone} {Tablets} {Leads} to {Iatrogenic} {Cushing} {Syndrome} in a 6-{Year}-{Old} {Girl} {With} {CAH}}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{volume}{4}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{bvaa091}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1210/jendso/bvaa091
+      \endverb
+      \verb{file}
+      \verb Al-Rayess et al. - 2020 - Manipulation of Hydrocortisone Tablets Leads to Ia.pdf:C\:\\Users\\mutaz\\Zotero\\storage\\HXIL2R3T\\Al-Rayess et al. - 2020 - Manipulation of Hydrocortisone Tablets Leads to Ia.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/jes/article/doi/10.1210/jendso/bvaa091/5867523
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/jes/article/doi/10.1210/jendso/bvaa091/5867523
+      \endverb
+    \endentry
+    \entry{sarafoglou_hydrocortisone_2020}{article}{}
+      \name{author}{4}{}{%
+        {{hash=2950e955ebf5e2068163bc84e23e6ceb}{%
+           family={Sarafoglou},
+           familyi={S\bibinitperiod},
+           given={Kyriakie},
+           giveni={K\bibinitperiod}}}%
+        {{hash=dd2fcfe8c7f5e4d153b956683eaf09a2}{%
+           family={J\textbf{aber,\bibnamedelimb Mutaz\bibnamedelimb M}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f54ddcce440cca2998403de37098d235}{%
+           family={Al-Kofahi},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={Mahmoud},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ae3482275de13e6a6a3c302d3522fe17}{%
+           family={Brundage},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima C},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a86899937ab86c09c7bbe5f17e6e5b59}
+      \strng{fullhash}{06ebe80138f053bdb2f49f09597fd592}
+      \strng{bibnamehash}{06ebe80138f053bdb2f49f09597fd592}
+      \strng{authorbibnamehash}{06ebe80138f053bdb2f49f09597fd592}
+      \strng{authornamehash}{a86899937ab86c09c7bbe5f17e6e5b59}
+      \strng{authorfullhash}{06ebe80138f053bdb2f49f09597fd592}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0804-4643, 1479-683X}
+      \field{journaltitle}{European Journal of Endocrinology}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{Hydrocortisone suspension formulations are not necessarily the same in the treatment of children with congenital adrenal hyperplasia}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{volume}{183}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{L27\bibrangedash L28}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1530/EJE-20-0938
+      \endverb
+      \verb{file}
+      \verb Sarafoglou et al. - 2020 - Hydrocortisone suspension formulations are not nec.pdf:C\:\\Users\\mutaz\\Zotero\\storage\\ESBVY2RC\\Sarafoglou et al. - 2020 - Hydrocortisone suspension formulations are not nec.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://eje.bioscientifica.com/view/journals/eje/183/6/EJE-20-0938.xml
+      \endverb
+      \verb{url}
+      \verb https://eje.bioscientifica.com/view/journals/eje/183/6/EJE-20-0938.xml
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
 
-\bibitem{heba_2021}
-Heba Al-Rayess, O~Yaw Addo, Mutaz~Jaber Elise~Palzer, Kristin Fleissner, James
-  Hodges, Richard Brundage, Bradley~Scott Miller, and Kyriakie Sarafoglou.
-\newblock Hydrocortisone suspension provides similar growth outcomes as
-  hydrocortisone tablets in young children with congenital adrenal hyperplasia:
-  A cross sectional study.
-\newblock {\em Journal of the Endocrine Society}, 5, 2021.
-
-\bibitem{al-rayess_manipulation_2020}
-Heba Al-Rayess, Kristin Fleissner, Mu’taz Jaber, Richard~C Brundage, and
-  Kyriakie Sarafoglou.
-\newblock Manipulation of {Hydrocortisone} {Tablets} {Leads} to {Iatrogenic}
-  {Cushing} {Syndrome} in a 6-{Year}-{Old} {Girl} {With} {CAH}.
-\newblock {\em Journal of the Endocrine Society}, 4(8):bvaa091, August 2020.
-
-\bibitem{alkofahi_integrated_2021}
-Mahmoud Al‐Kofahi, Mariam~A. Ahmed, Mutaz~M. Jaber, Thang~N. Tran, Brian~A.
-  Willis, Cheryl~L. Zimmerman, Maria~T. Gonzalez‐Bolanos, Richard~C.
-  Brundage, and Kyriakie Sarafoglou.
-\newblock An integrated {PK}‐{PD} model for cortisol and the
-  17‐hydroxyprogesterone and androstenedione biomarkers in children with
-  congenital adrenal hyperplasia.
-\newblock {\em Br J Clin Pharmacol}, 87(3):1098--1110, March 2021.
-
-\bibitem{alkofahi_finding_2020}
-Mahmoud Al‐Kofahi, Pamala Jacobson, David~R. Boulware, Arthur Matas, Raja
-  Kandaswamy, Mutaz~M. Jaber, Radha Rajasingham, Jo‐Anne~H. Young, and
-  Melanie~R. Nicol.
-\newblock Finding the {Dose} for {Hydroxychloroquine} {Prophylaxis} for
-  {COVID}‐19: {The} {Desperate} {Search} for {Effectiveness}.
-\newblock {\em Clin. Pharmacol. Ther.}, 108(4):766--769, October 2020.
-
-\bibitem{jaber_individualized_2020}
-Mutaz~M. Jaber, Mahmoud Al‐Kofahi, Kyriakie Sarafoglou, and Richard~C.
-  Brundage.
-\newblock Individualized {Absorption} {Models} in {Population}
-  {Pharmacokinetic} {Analyses}.
-\newblock {\em CPT Pharmacometrics Syst. Pharmacol.}, 9(6):307--309, June 2020.
-
-\bibitem{jaber_evaluation_nodate}
-Mutaz~M. Jaber, Shen Cheng, and Richard~C Brundage.
-\newblock Evaluation of bias in weighted residual calculations when handling
-  below the limit of quantification data using {Beal}’s {M3} method.
-\newblock page~4.
-
-\bibitem{jaber_application_2021}
-Mutaz~M Jaber, Burhaneddin Yaman, Kyriakie Sarafoglou, and Richard~C Brundage.
-\newblock Application of {Deep} {Neural} {Networks} as a {Prescreening} {Tool}
-  to {Assign} {Individualized} {Absorption} {Models} in {Pharmacokinetic}
-  {Analysis}.
-\newblock page~11, 2021.
-
-\bibitem{sarafoglou_hydrocortisone_2020}
-Kyriakie Sarafoglou, Mutaz~M Jaber, Mahmoud Al-Kofahi, and Richard~C Brundage.
-\newblock Hydrocortisone suspension formulations are not necessarily the same
-  in the treatment of children with congenital adrenal hyperplasia.
-\newblock {\em European Journal of Endocrinology}, 183(6):L27--L28, December
-  2020.
-
-\bibitem{takahashi_cyp2c19_2021}
-Takuto Takahashi, Maryam~A. Mohamud, Angela~R. Smith, Pamala~A. Jacobson,
-  Mutaz~M. Jaber, Abeer~F. Alharbi, James Fisher, and Mark~N. Kirstein.
-\newblock {CYP2C19} {Phenotype} and {Body} {Weight}-{Guided} {Voriconazole}
-  {Initial} {Dose} in {Infants} and {Children} after {Hematopoietic} {Cell}
-  {Transplantation}.
-\newblock {\em Antimicrob Agents Chemother}, 65(9), August 2021.
-
-\end{thebibliography}

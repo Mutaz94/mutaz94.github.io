@@ -1,52 +1,18 @@
-This is BibTeX, Version 0.99d
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: main.aux
-Reallocating 'name_of_file' (item size: 1) to 6 items.
-The style file: plain.bst
-Reallocating 'name_of_file' (item size: 1) to 13 items.
-Database file #1: research.bib
-Warning--empty journal in jaber_evaluation_nodate
-Warning--empty year in jaber_evaluation_nodate
-Warning--empty journal in jaber_application_2021
-You've used 11 entries,
-            2118 wiz_defined-function locations,
-            557 strings with 7304 characters,
-and the built_in function-call counts, 4731 in all, are:
-= -- 429
-> -- 343
-< -- 3
-+ -- 136
-- -- 124
-* -- 428
-:= -- 827
-add.period$ -- 33
-call.type$ -- 11
-change.case$ -- 95
-chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 132
-empty$ -- 271
-format.name$ -- 124
-if$ -- 918
-int.to.chr$ -- 0
-int.to.str$ -- 11
-missing$ -- 11
-newline$ -- 58
-num.names$ -- 22
-pop$ -- 87
-preamble$ -- 1
-purify$ -- 84
-quote$ -- 0
-skip$ -- 90
-stack$ -- 0
-substring$ -- 236
-swap$ -- 22
-text.length$ -- 3
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 44
-warning$ -- 3
-while$ -- 38
-width$ -- 13
-write$ -- 120
-(There were 3 warnings)
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'main.blg'
+[106] biber-MSWIN64:340> INFO - === 
+[138] Biber.pm:415> INFO - Reading 'main.bcf'
+[247] Biber.pm:949> INFO - Using all citekeys in bib section 0
+[262] Biber.pm:4340> INFO - Processing section 0
+[274] Biber.pm:4531> INFO - Looking for bibtex format file 'research.bib' for section 0
+[321] bibtex.pm:1689> INFO - LaTeX decoding ...
+[353] bibtex.pm:1494> INFO - Found BibTeX data source 'research.bib'
+[460] Biber.pm:4531> INFO - Looking for bibtex format file 'poster.bib' for section 0
+[498] bibtex.pm:1689> INFO - LaTeX decoding ...
+[511] bibtex.pm:1494> INFO - Found BibTeX data source 'poster.bib'
+[568] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[568] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[568] Biber.pm:4168> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[569] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[595] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[611] bbl.pm:757> INFO - Output to main.bbl
