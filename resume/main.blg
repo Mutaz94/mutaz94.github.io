@@ -1,18 +1,18 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'main.blg'
-[65] biber-darwin:340> INFO - === Thu Nov 11, 2021, 00:38:56
-[77] Biber.pm:415> INFO - Reading 'main.bcf'
-[152] Biber.pm:949> INFO - Using all citekeys in bib section 0
-[165] Biber.pm:4340> INFO - Processing section 0
-[174] Biber.pm:4531> INFO - Looking for bibtex format file 'research.bib' for section 0
-[176] bibtex.pm:1689> INFO - LaTeX decoding ...
-[202] bibtex.pm:1494> INFO - Found BibTeX data source 'research.bib'
+[64] biber-darwin:340> INFO - === Sat Dec  4, 2021, 19:25:48
+[75] Biber.pm:415> INFO - Reading 'main.bcf'
+[146] Biber.pm:949> INFO - Using all citekeys in bib section 0
+[158] Biber.pm:4340> INFO - Processing section 0
+[166] Biber.pm:4531> INFO - Looking for bibtex format file 'research.bib' for section 0
+[170] bibtex.pm:1689> INFO - LaTeX decoding ...
+[192] bibtex.pm:1494> INFO - Found BibTeX data source 'research.bib'
 [306] Biber.pm:4531> INFO - Looking for bibtex format file 'poster.bib' for section 0
-[306] bibtex.pm:1689> INFO - LaTeX decoding ...
-[311] bibtex.pm:1494> INFO - Found BibTeX data source 'poster.bib'
-[369] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[369] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[369] Biber.pm:4168> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[308] bibtex.pm:1689> INFO - LaTeX decoding ...
+[313] bibtex.pm:1494> INFO - Found BibTeX data source 'poster.bib'
+[368] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[368] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[368] Biber.pm:4168> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
 [369] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[394] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[409] bbl.pm:757> INFO - Output to main.bbl
+[391] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[406] bbl.pm:757> INFO - Output to main.bbl
