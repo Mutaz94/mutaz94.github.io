@@ -1,18 +1,18 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'main.blg'
-[64] biber-darwin:340> INFO - === Sat Dec  4, 2021, 19:25:48
-[75] Biber.pm:415> INFO - Reading 'main.bcf'
-[146] Biber.pm:949> INFO - Using all citekeys in bib section 0
-[158] Biber.pm:4340> INFO - Processing section 0
-[166] Biber.pm:4531> INFO - Looking for bibtex format file 'research.bib' for section 0
-[170] bibtex.pm:1689> INFO - LaTeX decoding ...
-[192] bibtex.pm:1494> INFO - Found BibTeX data source 'research.bib'
-[306] Biber.pm:4531> INFO - Looking for bibtex format file 'poster.bib' for section 0
-[308] bibtex.pm:1689> INFO - LaTeX decoding ...
-[313] bibtex.pm:1494> INFO - Found BibTeX data source 'poster.bib'
-[368] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[368] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[368] Biber.pm:4168> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[369] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[391] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[406] bbl.pm:757> INFO - Output to main.bbl
+[73] biber-darwin:340> INFO - === Tue Feb  1, 2022, 13:09:15
+[85] Biber.pm:415> INFO - Reading 'main.bcf'
+[159] Biber.pm:949> INFO - Using all citekeys in bib section 0
+[173] Biber.pm:4340> INFO - Processing section 0
+[182] Biber.pm:4531> INFO - Looking for bibtex format file 'research.bib' for section 0
+[184] bibtex.pm:1689> INFO - LaTeX decoding ...
+[211] bibtex.pm:1494> INFO - Found BibTeX data source 'research.bib'
+[337] Biber.pm:4531> INFO - Looking for bibtex format file 'poster.bib' for section 0
+[338] bibtex.pm:1689> INFO - LaTeX decoding ...
+[344] bibtex.pm:1494> INFO - Found BibTeX data source 'poster.bib'
+[407] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[407] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[407] Biber.pm:4168> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[407] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[435] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[453] bbl.pm:757> INFO - Output to main.bbl

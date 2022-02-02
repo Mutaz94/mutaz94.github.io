@@ -57,6 +57,76 @@
       \endverb
       \keyw{papers}
     \endentry
+    \entry{al2022bone}{article}{}
+      \name{author}{9}{}{%
+        {{hash=e29dad6c5edf46c29cfe1d40ef2ae933}{%
+           family={Al-Rayess},
+           familyi={A\bibinithyphendelim R\bibinitperiod},
+           given={Heba},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9662a528e9527e0b25d2ce96ac6ea5e9}{%
+           family={Addo},
+           familyi={A\bibinitperiod},
+           given={O\bibnamedelima Yaw},
+           giveni={O\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=604a221a1ee11ffbc2ac269050d3c0ea}{%
+           family={Palzer},
+           familyi={P\bibinitperiod},
+           given={Elise},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9cf027ffde95f97cd2eb2d48a85d6cf7}{%
+           family={\textbf{Jaber,\bibnamedelimb Mutaz\bibnamedelimb M.}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ce54086c3e873757473826b10e71d995}{%
+           family={Fleissner},
+           familyi={F\bibinitperiod},
+           given={Kristin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=de89c6a3c5bf28a04fe61da21bee3d48}{%
+           family={Hodges},
+           familyi={H\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=43d7769283f2b53853bb06c85aa09537}{%
+           family={Brundage},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=6f955f59ec21d71fd5fb7286a4b01104}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Bradley\bibnamedelima S},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=2950e955ebf5e2068163bc84e23e6ceb}{%
+           family={Sarafoglou},
+           familyi={S\bibinitperiod},
+           given={Kyriakie},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press US}%
+      }
+      \strng{namehash}{af7ee9247fdb32a3a86c8b4be2c2bc12}
+      \strng{fullhash}{a4dc2efba34a709eed0afdbde6fb732f}
+      \strng{bibnamehash}{a4dc2efba34a709eed0afdbde6fb732f}
+      \strng{authorbibnamehash}{a4dc2efba34a709eed0afdbde6fb732f}
+      \strng{authornamehash}{af7ee9247fdb32a3a86c8b4be2c2bc12}
+      \strng{authorfullhash}{a4dc2efba34a709eed0afdbde6fb732f}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Endocrine Society}
+      \field{number}{2}
+      \field{title}{Bone Age Maturation and Growth Outcomes in Young Children with CAH Treated with Hydrocortisone Suspension}
+      \field{volume}{6}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{bvab193}
+      \range{pages}{-1}
+      \keyw{papers}
+    \endentry
     \entry{jab2}{article}{}
       \name{author}{6}{}{%
         {{hash=840aaf9b4b858ea59e81e68667fb56cc}{%
@@ -367,7 +437,7 @@
       \strng{authorbibnamehash}{8b22d9d02bf677d5a703e62936dae28b}
       \strng{authornamehash}{af7ee9247fdb32a3a86c8b4be2c2bc12}
       \strng{authorfullhash}{8b22d9d02bf677d5a703e62936dae28b}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -375,6 +445,57 @@
       \field{journaltitle}{Journal of the Endocrine Society}
       \field{title}{Hydrocortisone Suspension Provides Similar Growth Outcomes as Hydrocortisone Tablets in Young Children With Congenital Adrenal Hyperplasia: A Cross Sectional Study}
       \field{volume}{5}
+      \field{year}{2021}
+      \true{nocite}
+      \keyw{papers}
+    \endentry
+    \entry{takahashi2021predictive}{article}{}
+      \name{author}{6}{}{%
+        {{hash=04d1dcffc1dc5d02287042420c30631b}{%
+           family={Takahashi},
+           familyi={T\bibinitperiod},
+           given={Takuto},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9cf027ffde95f97cd2eb2d48a85d6cf7}{%
+           family={\textbf{Jaber,\bibnamedelimb Mutaz\bibnamedelimb M.}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=887eba4813c525427d968004060f37c1}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Angela\bibnamedelima R},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=f9857e27b96560103a56095138d7edab}{%
+           family={Jacobson},
+           familyi={J\bibinitperiod},
+           given={Pamala\bibnamedelima A},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=da4b13ef11988b637fad711cd5c96bee}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=559f4355ab79a8bcaec6b09609fee88d}{%
+           family={Kirstein},
+           familyi={K\bibinitperiod},
+           given={Mark\bibnamedelima N},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{a4a77a04d3a66fe907c7679c682d3272}
+      \strng{fullhash}{8eae1468a419a7a3bc9a9c61d1a65c91}
+      \strng{bibnamehash}{8eae1468a419a7a3bc9a9c61d1a65c91}
+      \strng{authorbibnamehash}{8eae1468a419a7a3bc9a9c61d1a65c91}
+      \strng{authornamehash}{a4a77a04d3a66fe907c7679c682d3272}
+      \strng{authorfullhash}{8eae1468a419a7a3bc9a9c61d1a65c91}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Clinical Pharmacology}
+      \field{title}{Predictive Value of C-Reactive Protein and Albumin for Temporal Within-Individual Pharmacokinetic Variability of Voriconazole in Pediatric Hematopoietic Cell Transplant Patients}
       \field{year}{2021}
       \true{nocite}
       \keyw{papers}
@@ -429,6 +550,7 @@
       \strng{authorbibnamehash}{969504a17e24ab3bad0347b1d1a6fc9e}
       \strng{authornamehash}{a4a77a04d3a66fe907c7679c682d3272}
       \strng{authorfullhash}{969504a17e24ab3bad0347b1d1a6fc9e}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -854,7 +976,7 @@
       \strng{authorbibnamehash}{8c3c5fe2230ace1197391089d0aba611}
       \strng{authornamehash}{af7ee9247fdb32a3a86c8b4be2c2bc12}
       \strng{authorfullhash}{8c3c5fe2230ace1197391089d0aba611}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
