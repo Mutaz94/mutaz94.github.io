@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>main.bcf</file>
+      <file>Mutaz2022.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>main.bbl</file>
+      <file>Mutaz2022.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -66,19 +66,19 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>main</infile>
+      <infile>Mutaz2022</infile>
     </cmdline>
     <input>
-      <file>main.bcf</file>
+      <file>Mutaz2022.bcf</file>
     </input>
     <output>
-      <file>main.bbl</file>
+      <file>Mutaz2022.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>main.bbl</file>
+      <file>Mutaz2022.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>main.bcf</file>
+      <file>Mutaz2022.bcf</file>
     </requires>
     <requires type="editable">
       <file>research.bib</file>

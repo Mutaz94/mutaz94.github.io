@@ -1,0 +1,23 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'Mutaz2022.blg'
+[70] biber-darwin:340> INFO - === Sun Mar  6, 2022, 23:07:46
+[83] Biber.pm:415> INFO - Reading 'Mutaz2022.bcf'
+[154] Biber.pm:949> INFO - Using all citekeys in bib section 0
+[167] Biber.pm:4340> INFO - Processing section 0
+[175] Biber.pm:4531> INFO - Looking for bibtex format file 'research.bib' for section 0
+[178] bibtex.pm:1689> INFO - LaTeX decoding ...
+[205] bibtex.pm:1494> INFO - Found BibTeX data source 'research.bib'
+[325] Biber.pm:4531> INFO - Looking for bibtex format file 'poster.bib' for section 0
+[326] bibtex.pm:1689> INFO - LaTeX decoding ...
+[333] bibtex.pm:1494> INFO - Found BibTeX data source 'poster.bib'
+[364] Biber.pm:4531> INFO - Looking for bibtex format file 'ongoing.bib' for section 0
+[365] bibtex.pm:1689> INFO - LaTeX decoding ...
+[371] bibtex.pm:1494> INFO - Found BibTeX data source 'ongoing.bib'
+[397] Utils.pm:395> WARN - BibTeX subsystem: /var/folders/7p/cp6pcdns68zfy1p7bchrfs4h0000gn/T/biber_tmp_Asvb/75d2949cfa8e519d22f3b3b7d0560177_56061.utf8, line 9, warning: 155 characters of junk seen at toplevel
+[433] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[434] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[434] Biber.pm:4168> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[434] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[470] bbl.pm:654> INFO - Writing 'Mutaz2022.bbl' with encoding 'UTF-8'
+[491] bbl.pm:757> INFO - Output to Mutaz2022.bbl
+[491] Biber.pm:128> INFO - WARNINGS: 1
