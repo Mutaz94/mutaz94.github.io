@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.1 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -19,13 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
-    \entry{on1}{article}{}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labeltitlesource}{title}
-      \field{title}{Investigating the contribution of {residual unexplained variability} components in nonlinear-mixed effect approach}
-      \true{nocite}
-    \endentry
     \entry{jaber_evaluation_nodate}{article}{}
       \name{author}{3}{}{%
         {{hash=9cf027ffde95f97cd2eb2d48a85d6cf7}{%
@@ -173,6 +166,34 @@
       \true{nocite}
       \keyw{ongoing}
     \endentry
+    \entry{on1}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9cf027ffde95f97cd2eb2d48a85d6cf7}{%
+           family={\textbf{Jaber,\bibnamedelimb Mutaz\bibnamedelimb M.}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ae3482275de13e6a6a3c302d3522fe17}{%
+           family={Brundage},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d07a4e22d7a79ab6ca5a125be3665c3}
+      \strng{fullhash}{7d07a4e22d7a79ab6ca5a125be3665c3}
+      \strng{bibnamehash}{7d07a4e22d7a79ab6ca5a125be3665c3}
+      \strng{authorbibnamehash}{7d07a4e22d7a79ab6ca5a125be3665c3}
+      \strng{authornamehash}{7d07a4e22d7a79ab6ca5a125be3665c3}
+      \strng{authorfullhash}{7d07a4e22d7a79ab6ca5a125be3665c3}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{\textbf{Target}: Journal of Pharmacokinetics and Pharmacodynamic}
+      \field{title}{Investigating the contribution of {residual unexplained variability} components in a nonlinear-mixed effect approach}
+      \field{year}{2022}
+      \true{nocite}
+      \keyw{ongoing}
+    \endentry
     \entry{on4}{article}{}
       \name{author}{3}{}{%
         {{hash=9cf027ffde95f97cd2eb2d48a85d6cf7}{%
@@ -309,6 +330,49 @@
       \range{pages}{-1}
       \keyw{papers}
     \endentry
+    \entry{on7}{article}{}
+      \name{author}{5}{}{%
+        {{hash=132b7538c98165f9376c9de0f2f3094d}{%
+           family={Takahashi},
+           familyi={T\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=5f076f5227630be77f499dc1ce57f808}{%
+           family={\textbf{Jaber,\bibnamedelimb MM}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=b40defed1ddc12aa995ff36463d92eba}{%
+           family={Jacobson},
+           familyi={J\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fc611fa38176b7b068dea1f052a54086}{%
+           family={Brundage},
+           familyi={B\bibinitperiod},
+           given={RC.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=131b6ce4da34e202d419e7b6ba538178}{%
+           family={Kirsten},
+           familyi={K\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c524e3f4d8f4c52efdc93c7705b0177f}
+      \strng{fullhash}{d72a0edf71d7bc83deb1245e7586bd01}
+      \strng{bibnamehash}{d72a0edf71d7bc83deb1245e7586bd01}
+      \strng{authorbibnamehash}{d72a0edf71d7bc83deb1245e7586bd01}
+      \strng{authornamehash}{c524e3f4d8f4c52efdc93c7705b0177f}
+      \strng{authorfullhash}{d72a0edf71d7bc83deb1245e7586bd01}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{\textbf{Target}: Blood advances}
+      \field{title}{Comparison of Dose Adjustment Strategies for Obesity in High-dose Cyclophosphamide Among Adult Hematopoietic Cell Transplantation Recipients}
+      \field{year}{2022}
+      \true{nocite}
+      \keyw{ongoing}
+    \endentry
     \entry{jab2}{article}{}
       \name{author}{6}{}{%
         {{hash=840aaf9b4b858ea59e81e68667fb56cc}{%
@@ -419,7 +483,7 @@
       \strng{authorbibnamehash}{7d07a4e22d7a79ab6ca5a125be3665c3}
       \strng{authornamehash}{7d07a4e22d7a79ab6ca5a125be3665c3}
       \strng{authorfullhash}{7d07a4e22d7a79ab6ca5a125be3665c3}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -672,7 +736,7 @@
       \strng{authorbibnamehash}{8eae1468a419a7a3bc9a9c61d1a65c91}
       \strng{authornamehash}{a4a77a04d3a66fe907c7679c682d3272}
       \strng{authorfullhash}{8eae1468a419a7a3bc9a9c61d1a65c91}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -733,7 +797,7 @@
       \strng{authorbibnamehash}{969504a17e24ab3bad0347b1d1a6fc9e}
       \strng{authornamehash}{a4a77a04d3a66fe907c7679c682d3272}
       \strng{authorfullhash}{969504a17e24ab3bad0347b1d1a6fc9e}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
