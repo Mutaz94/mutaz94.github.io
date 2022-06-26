@@ -138,6 +138,47 @@
       \true{nocite}
       \keyw{ongoing}
     \endentry
+    \entry{jab0}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9cf027ffde95f97cd2eb2d48a85d6cf7}{%
+           family={\textbf{Jaber,\bibnamedelimb Mutaz\bibnamedelimb M.}},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f1ee5a12f40773f2f358930f6a120d80}{%
+           family={Bart},
+           familyi={B\bibinitperiod},
+           given={Gavin},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f54ddcce440cca2998403de37098d235}{%
+           family={Al-Kofahi},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={Mahmoud},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ae3482275de13e6a6a3c302d3522fe17}{%
+           family={Brundage},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{6a1d8069f441b91ad946bbd5a786fb7d}
+      \strng{fullhash}{bfcd824b0b21995193d77d8f82af8f73}
+      \strng{bibnamehash}{bfcd824b0b21995193d77d8f82af8f73}
+      \strng{authorbibnamehash}{bfcd824b0b21995193d77d8f82af8f73}
+      \strng{authornamehash}{6a1d8069f441b91ad946bbd5a786fb7d}
+      \strng{authorfullhash}{bfcd824b0b21995193d77d8f82af8f73}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Minnesota Supercomputing Research Exhibition 2022}
+      \field{title}{Simultaneous exposure analysis of total and unbound R-and S-methadone concentrations}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.13140/RG.2.2.21563.08489
+      \endverb
+      \keyw{poster}
+    \endentry
     \entry{on2}{article}{}
       \name{author}{2}{}{%
         {{hash=9cf027ffde95f97cd2eb2d48a85d6cf7}{%
@@ -450,7 +491,7 @@
       \strng{authorbibnamehash}{ce7f92d9e59504346632dea664b132b8}
       \strng{authornamehash}{6a1d8069f441b91ad946bbd5a786fb7d}
       \strng{authorfullhash}{ce7f92d9e59504346632dea664b132b8}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -529,7 +570,7 @@
       \strng{authorbibnamehash}{a4e77ef24faf4aa9025a0867e46dac7a}
       \strng{authornamehash}{6a1d8069f441b91ad946bbd5a786fb7d}
       \strng{authorfullhash}{a4e77ef24faf4aa9025a0867e46dac7a}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -987,7 +1028,7 @@
       \strng{authorbibnamehash}{4bb8da3fd073fab26dcf7e6d335490c1}
       \strng{authornamehash}{6a1d8069f441b91ad946bbd5a786fb7d}
       \strng{authorfullhash}{4bb8da3fd073fab26dcf7e6d335490c1}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1047,7 +1088,7 @@
       \strng{authorbibnamehash}{430166212083dc6d7f32a24b8a17c9f7}
       \strng{authornamehash}{6a1d8069f441b91ad946bbd5a786fb7d}
       \strng{authorfullhash}{430166212083dc6d7f32a24b8a17c9f7}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1085,7 +1126,7 @@
       \strng{authorbibnamehash}{430166212083dc6d7f32a24b8a17c9f7}
       \strng{authornamehash}{6a1d8069f441b91ad946bbd5a786fb7d}
       \strng{authorfullhash}{430166212083dc6d7f32a24b8a17c9f7}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
